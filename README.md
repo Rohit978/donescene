@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-pip install git+https://github.com/rohittce/donescene.git
+pip install git+https://github.com/Rohit978/donescene.git
 ```
 
 After install, run the skills installer:
@@ -19,7 +19,7 @@ This copies the 22 skill folders into `~/.gemini/antigravity/skills/`. Restart A
 ### Update to Latest
 
 ```bash
-pip install --upgrade git+https://github.com/rohittce/donescene.git
+pip install --upgrade git+https://github.com/Rohit978/donescene.git
 donescene --force
 ```
 
@@ -61,7 +61,7 @@ pip uninstall donescene
 
 ```bash
 # 1. Install
-pip install git+https://github.com/rohittce/donescene.git
+pip install git+https://github.com/Rohit978/donescene.git
 donescene
 
 # 2. In any project, initialize DoneScene
